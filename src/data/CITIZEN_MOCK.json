@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "country": "USA",
+      "state": "California",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "country": "USA",
+      "state": "Texas",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Raj Kumar",
+      "country": "India",
+      "state": "Delhi",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Anita Sharma",
+      "country": "India",
+      "state": "Maharashtra",
+      "gender": "Female"
+    }
+    
+  ]
+  
